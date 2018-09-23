@@ -1,13 +1,13 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<!-- mvn install:install-file -DgroupId=jpedal -DartifactId=jpedal -Dpackaging=jar -Dversion=4.74b27 -Dfile=/home/gerhard/Downloads/jpedal_lgpl.jar 
-		
-		mvn install:install-file 
-		-DgroupId=jai -DartifactId=jai-imageio -Dpackaging=jar -Dversion=1.0 -Dfile=/home/gerhard/Downloads/jai_imageio_idrsolutionsBuild.jar 
-		
-		mvn install:install-file -DgroupId=jai -DartifactId=jai-core -Dpackaging=jar -Dversion=1.0 -Dfile=/home/gehrard/Downloads/jai_core.jar 
-		
+	<!-- mvn install:install-file -DgroupId=jpedal -DartifactId=jpedal -Dpackaging=jar -Dversion=4.74b27 -Dfile=/home/gerhard/Downloads/jpedal_lgpl.jar
+
+		mvn install:install-file
+		-DgroupId=jai -DartifactId=jai-imageio -Dpackaging=jar -Dversion=1.0 -Dfile=/home/gerhard/Downloads/jai_imageio_idrsolutionsBuild.jar
+
+		mvn install:install-file -DgroupId=jai -DartifactId=jai-core -Dpackaging=jar -Dversion=1.0 -Dfile=/home/gehrard/Downloads/jai_core.jar
+
 		mvn install:install-file -DgroupId=jai -DartifactId=jai-codec -Dpackaging=jar -Dversion=1.0 -Dfile=/home/gehrard/Downloads/jai_codec.jar -->
 	<groupId>at.laborg</groupId>
 	<artifactId>briss</artifactId>
@@ -73,7 +73,7 @@
 		<artifactId>bctsp-jdk15</artifactId>
 		<version>1.46</version>
 	</dependency>
-          
+
 		<dependency>
 			<groupId>com.itextpdf</groupId>
 			<artifactId>itextpdf</artifactId>

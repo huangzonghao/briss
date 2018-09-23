@@ -22,7 +22,7 @@
 		<dependencySet>
 		<useTransitiveDependencies>true</useTransitiveDependencies>
 		<useTransitiveFiltering>true</useTransitiveFiltering>
-		
+
 			<unpack>false</unpack>
 			<scope>runtime</scope>
 			<includes>
